@@ -1,0 +1,2 @@
+INSERT INTO "Feature" ("featureId", "featureName", "featureStatus", "lifecycleStatus", "serviceName", "serviceVersion", "description") VALUES
+	('F-0001', 'Test Feature', false, 'initial_creation', 'Some Service', '1.0.0-Snapshot', 'This is a test description');
